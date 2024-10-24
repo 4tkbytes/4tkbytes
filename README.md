@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm from Sydney, Australia.<br>- 🔭 I am not employed as of right now :(  It would be cool though. <br>- 📚 I am currently learning JVM Languages, primarily Java and Kotlin.<br>- ⚡I enjoy working on graphics engine. <br>- 🎯I hope to create a working OpenGL Engine. <br>- ♦️ I have good experience with Java, Kotlin, C#, C++, and Python.</p>
+<p align="left">I'm from Sydney, Australia.<br>- 🔭 I am not employed as of right now :(  It would be cool though. <br>- 📚 I am currently learning JVM Languages, primarily Java and Kotlin.<br>- ⚡I enjoy working on graphics engine. <br>- 🎯I hope to create a working OpenGL Engine. <br>- ♦️I have good experience with Java, Kotlin, C#, C++, and Python.</p>
 
 ###
 
