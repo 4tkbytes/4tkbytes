@@ -1,36 +1,26 @@
-## Hi there! 👋
-
-I'm Thribhu Krishnan, a passionate developer who loves to explore the world of coding and technology! 💻 I enjoy building innovative solutions and working with various programming languages. Let's connect and create something amazing together!
-
-## About Me
-
-Currently based in an undisclosed location, I am a software developer specializing in Rust and shell scripting. I have worked on various projects ranging from system utilities to applications that interface with APIs. I believe in the power of open-source and actively contribute to the community.
-
-## Skills & Technologies
-
-rust,git,docker,linux,html,css
-
-## Top Projects
-
-- [hysterical](https://github.com/4tkbytes/hysterical) - A cross-platform library (and bin) for fetching hardware and software information. ⭐ 1 | Language: Rust 
+```txt
+imma make this simple for anyone bothering to read this:
 
 
-## GitHub Stats
-
-🌟 Public Repositories: 30
-👥 Followers: 2
-🔄 Following: 2
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4tkbytes&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed to [Reddox](https://github.com/4tkbytes/Reddox) - Update README.md
+i am good with **c++**, **rust**, **java** and **python**. i plan on learning **c** (soon) and actually make use of it.
+i use arch btw. 
 
 
-## Latest Blog Posts
 
-Currently, I don't have any blog posts published. Stay tuned!
+i enjoy listening to all genres of music, i don't specificaly have one that I dislike
 
-## Connect with Me
 
-{"twitter":"https://twitter.com/thrithedawg"}
+
+i don't have a project in mind that I am making right now, just following tutorials and stuck in tutorial hell (not really). 
+
+
+
+i wanna make my own custom macro pad with customisability made with a microcontroller and custom pcb. 
+
+
+
+email me @ 4tkbytes@pm.me if you wanna talk
+```
+
+
+```[|AEST/AEDT|syd|]```
