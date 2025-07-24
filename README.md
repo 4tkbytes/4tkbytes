@@ -18,7 +18,7 @@ check it out under angrycolonhash/WinkLink
 
 
 email me @ 4tkbytes@pm.me if you wanna talk
-im also on coinbase if you wanna verify me: https://keybase.io/4tkbytes
+im also on keybase if you wanna verify me: https://keybase.io/4tkbytes
 ```
 
 
