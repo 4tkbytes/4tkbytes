@@ -3,7 +3,7 @@ imma make this simple for anyone bothering to read this:
 
 
 
-i am good with **rust**, **c#**, **c++**, **java** and **python**. 
+i am good with **rust**, **kotlin**, **c#**, **c++**, **java** and **python**. 
 i use arch btw.
 
 
